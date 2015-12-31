@@ -10,7 +10,6 @@ import cn.jpush.im.android.api.JMessageClient;
 import com.friend.R;
 
 public class AboutActivity extends Activity {
-
     private TextView mAboutTv;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
